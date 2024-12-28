@@ -135,3 +135,16 @@ Ensure you have the following installed:
    ```bash
    python app.py
 Access the application at http://127.0.0.1:5000/.
+
+
+## **Usage**
+
+1. Open the web interface at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+2. Enter the following input fields in the form:
+   - **Age**
+   - **Gender**
+   - **BMI**
+   - **Number of children**
+   - **Smoking status**
+   - **Residential region**
+3. Click **Predict** to view the estimated insurance charges.
