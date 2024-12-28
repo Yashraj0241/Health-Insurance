@@ -149,3 +149,7 @@ Access the application at http://127.0.0.1:5000/.
    - **Residential region**
 3. Click **Predict** to view the estimated insurance charges.
 ---
+
+## **Results**
+
+The model predicts insurance charges based on the given inputs with high accuracy.
