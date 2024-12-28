@@ -109,5 +109,23 @@ Ensure you have the following installed:
 ### **2. Steps to Run the Project**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/health-insurance-prediction.git
+   https://github.com/Yashraj0241/Health-Insurance
    cd health-insurance-prediction
+
+2. **Set Up the Environment**:
+   Create a virtual environment and install dependencies:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
+   pip install -r requirements.txt
+3. **Run the Jupyter Notebook**:
+   Open health insurance.ipynb in Jupyter Notebook and run all cells to:
+   Preprocess data
+   Train the model
+   Save health_insu.pkl and scaler_obj.pkl.
+4. **Run the Flask Application**:
+   Navigate to the Flask project directory and start the server:
+   ```bash
+   python app.py
+Access the application at http://127.0.0.1:5000/.
