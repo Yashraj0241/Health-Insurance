@@ -136,7 +136,7 @@ Ensure you have the following installed:
    python app.py
 Access the application at http://127.0.0.1:5000/.
 
-
+---
 ## **Usage**
 
 1. Open the web interface at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
@@ -148,3 +148,4 @@ Access the application at http://127.0.0.1:5000/.
    - **Smoking status**
    - **Residential region**
 3. Click **Predict** to view the estimated insurance charges.
+---
