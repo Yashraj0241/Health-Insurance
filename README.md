@@ -121,11 +121,16 @@ Ensure you have the following installed:
    source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
    pip install -r requirements.txt
 4. **Run the Jupyter Notebook**:
+
    Open health insurance.ipynb in Jupyter Notebook and run all cells to:
+
    Preprocess data
+
    Train the model
+
    Save health_insu.pkl and scaler_obj.pkl.
-5. **Run the Flask Application**:
+6. **Run the Flask Application**:
+
    Navigate to the Flask project directory and start the server:
    ```bash
    python app.py
