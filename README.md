@@ -40,7 +40,7 @@ The dataset used in this project was sourced from a platform like Kaggle. The da
 - `bmi`
 - `children`
 - `smoker`
-- `region`
+
 
 ### **Output Feature:**
 - `charges`
@@ -146,7 +146,7 @@ Access the application at http://127.0.0.1:5000/.
    - **BMI**
    - **Number of children**
    - **Smoking status**
-   - **Residential region**
+  
 3. Click **Predict** to view the estimated insurance charges.
 ---
 
