@@ -14,7 +14,7 @@ This project aims to predict **health insurance charges** based on various input
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Future Enhancements](#future-enhancements)
+
 
 ---
 
