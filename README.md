@@ -110,7 +110,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    https://github.com/Yashraj0241/Health-Insurance
-   cd health-insurance-prediction
+   
 
 2. **Set Up the Environment**:
    
